@@ -107,9 +107,9 @@ function Navbar() {
               LOGIN
             </a>
 
-            <button className="btn contact-btn order-2 order-lg-2 order-md-2">
+            <a href="/contact" className="btn contact-btn order-2 order-lg-2 order-md-2">
               CONTACT AIVIDIA
-            </button>
+            </a>
 
           </div>
 

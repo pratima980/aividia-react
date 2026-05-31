@@ -15,8 +15,8 @@ function App() {
          <Route path="/services" element={<Services />} />
           <Route path="/clients" element={<Clients/>} />
 
-         <Route path="/contact" element={<Contact/>} />
-      </Routes>
+          <Route path="/contact" element={<Contact />} />
+           </Routes>
     </BrowserRouter>
   );
 }
